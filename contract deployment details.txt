@@ -1,0 +1,28 @@
+2_deploy_contract.js
+====================
+
+   Deploying 'UniqueAsset'
+   -----------------------
+   > transaction hash:    0x904cbfa81651fa17db60f49ff67fbea39da184345d1f5b6fec40ddeeb7bbbd7b
+   > Blocks: 4            Seconds: 9
+   > contract address:    0x82814b4de55E4D3960567Ca15f5b50275cb26052
+   > block number:        10097107
+   > block timestamp:     1619227937
+   > account:             0xd7c29f924F31d339Ac2e7B289f572dCffb1f9e5a
+   > balance:             0.94658214
+   > gas used:            2379380 (0x244e74)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0475876 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 10097108)
+   > confirmation number: 2 (block: 10097109)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.0475876 ETH
+
+https://ropsten.etherscan.io/address/0x82814b4de55E4D3960567Ca15f5b50275cb26052#writeContract
